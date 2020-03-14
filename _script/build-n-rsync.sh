@@ -23,4 +23,4 @@ bundle exec Jekyll build > /dev/null
 
 echo 'Ready. Time to sync.'
 
-rsync -avh --delete _site/ foo@foo.bar:~/public_html/ 
+rsync -avh --delete _site/ foo@foo.bar:~/public_html/
