@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   @Xiaozhe Yao's minimalistic, self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://photos.yaonotes.org/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Xiaozhe_Y
+twitter_username: xiaozheyao
 github_username: xzyaoi
 instagram_username: XiaozheYaoi
 
